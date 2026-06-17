@@ -3,7 +3,7 @@
 # Project Objective
 To clean and standardize raw, unstructured shipment data using Google BigQuery, ensuring the dataset is primed for accurate supply chain reporting and compliance monitoring.
 
-# mThe Challenge
+# The Challenge
 The initial `dirty_shipment` dataset contained several operational data entry errors that would skew logistics metrics:
 * Inconsistent capitalization across origin warehouses, destination cities, and carrier names.
 * Missing critical delivery dates and destination fields.
